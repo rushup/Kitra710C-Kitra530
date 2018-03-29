@@ -9,7 +9,7 @@
 ### Useful official repositories
 
 - [Kitra530-kernel](https://github.com/rushup/Kitra530-kernel)
-- [Kitra710C-kernel](https://github.com/rushup/Kitra710C-kernel)
+- [Kitra710C-kernel](https://github.com/rushup/rushup-linux-artik/tree/A710/v4.4)
 - [node-red-contrib-kitra530](https://github.com/rushup/node-red-contrib-kitra530) (valid both for Kitra710C and Kitra530)
 
 ## More
